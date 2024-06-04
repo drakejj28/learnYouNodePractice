@@ -26,7 +26,7 @@ app.get('/employees/:employeeID', (req, res) => {
     res.json(employee);
   } else {
     // If no employee matches the given employeeID, send a 404 status code and an error message
-    res.status(404).send({ error: 'Employee not found' });
+    res.status(404).send({ error: 'Emplotee not found' });
   }
 });
 
