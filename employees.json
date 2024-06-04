@@ -1,0 +1,12 @@
+[
+    {"employeeID": "E01", "name": "Alice Johnson", "salary": 70000, "department": "Finance"},
+    {"employeeID": "E02", "name": "Bob Smith", "salary": 55000, "department": "Marketing"},
+    {"employeeID": "E03", "name": "Charlie Brown", "salary": 50000, "department": "Sales"},
+    {"employeeID": "E04", "name": "Dana Scully", "salary": 65000, "department": "IT"},
+    {"employeeID": "E05", "name": "Evan Wright", "salary": 60000, "department": "Operations"},
+    {"employeeID": "E06", "name": "Fiona Glenanne", "salary": 58000, "department": "HR"},
+    {"employeeID": "E07", "name": "George King", "salary": 62000, "department": "Administration"},
+    {"employeeID": "E08", "name": "Hannah Abbott", "salary": 63000, "department": "Customer Service"},
+    {"employeeID": "E09", "name": "Ian Malcolm", "salary": 67000, "department": "Research"},
+    {"employeeID": "E10", "name": "Jane Doe", "salary": 72000, "department": "Development"}
+  ]
